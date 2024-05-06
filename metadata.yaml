@@ -1,0 +1,49 @@
+_repo: Puutarhuri-b-Suorasanaisia-runoelmia_73399
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Leino, Armas Eino Leopold
+    - Lonnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Sepeteus, Kanttori
+    - Vilkastus, Mikko
+    - Lönnbohm, Armas Einar Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eino_Leino
+    - https://fi.wikipedia.org/wiki/Eino_Leino
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: 'Translation of: Malini [The gardener].'
+gutenberg_issued: '2024-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73399'
+language: fi
+pgterms:marc905: 20240412022608tagore
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indic poetry -- Translations into Finnish'
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into Finnish'
+- !lcsh 'Bengali poetry -- Translations into Finnish'
+- !lcc 'PK'
+- GITenberg
+title: 'Puutarhuri : $b Suorasanaisia runoelmia'
+url: http://www.gutenberg.org/ebooks/73399
