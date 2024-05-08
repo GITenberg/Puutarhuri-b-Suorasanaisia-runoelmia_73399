@@ -17,6 +17,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Eino_Leino
     - https://fi.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: https://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: 'Translation of: Malini [The gardener].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73399#Puutarhuri-b-Suorasanaisia-runoelmia
 gutenberg_issued: '2024-04-15'
 gutenberg_type: Text
 identifiers:
